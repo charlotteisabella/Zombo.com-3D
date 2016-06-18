@@ -10,3 +10,9 @@ canvas {
 audio {
   display: none;
 }
+
+img {
+  margin: auto;
+  width: 800px;
+  display: block;
+}
